@@ -1,3 +1,6 @@
+//
+// Dallas Dunnett
+//
 #ifndef MAINVIEW_H
 #define MAINVIEW_H
 
